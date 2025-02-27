@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/monetizzy.com.ico",
     "slug": "monetizzy",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 330,
-    "timeDay": 407,
-    "timeWeek": 365,
-    "timeMonth": 341,
-    "timeYear": 330,
+    "uptimeYear": "99.83%",
+    "time": 329,
+    "timeDay": 296,
+    "timeWeek": 349,
+    "timeMonth": 340,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2025-01-23": 85
     }
